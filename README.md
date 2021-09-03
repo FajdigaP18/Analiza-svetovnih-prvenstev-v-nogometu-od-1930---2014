@@ -15,8 +15,10 @@ Za projekt sem uporabila računalniški program Mathematica.
 
 ## Aplikacija 
 Pripravila sem aplikacijo v Wolfram cloud-u. Dostopna je na naslednji povezavi:
+https://www.wolframcloud.com/obj/4f331c9a-16e0-44bf-9ae5-e7cfe7495286
 
 ## Videoposnetek predstavitve:
 Pripravila sem videoposnetek, ki je dostopen na naslednji povezavi:
+https://youtu.be/G5JhX_R6Y54
 
 Avtorica: Polona Fajdiga
